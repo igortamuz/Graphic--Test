@@ -1,0 +1,113 @@
+{
+  "categories": [
+    {
+      "name": "Games",
+      "products": [
+        {
+          "name": "Souls Like",
+          "brands": [
+            {
+              "name": "Dark Souls",
+              "monthlySales": [350, 180, 430, 150, 200, 550, 420, 300, 250, 320, 450, 280]
+            },
+            {
+              "name": "Sekiro",
+              "monthlySales": [580, 100, 250, 480, 390, 290, 350, 430, 200, 510, 170, 300]
+            },
+            {
+              "name": "Chronicles",
+              "monthlySales": [220, 340, 180, 270, 390, 210, 150, 430, 500, 320, 260, 170]
+            }
+          ]
+        },
+        {
+          "name": "Anime",
+          "brands": [
+            {
+              "name": "Dragon Ball",
+              "monthlySales": [120, 290, 550, 420, 180, 300, 380, 490, 360, 500, 280, 600]
+            },
+            {
+              "name": "One Piece",
+              "monthlySales": [420, 370, 180, 530, 440, 220, 150, 280, 500, 250, 310, 480]
+            },
+            {
+              "name": "ShadowBlade",
+              "monthlySales": [290, 180, 380, 270, 420, 150, 220, 360, 290, 420, 180, 240]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "products": [
+        {
+          "name": "Horror",
+          "brands": [
+            {
+              "name": "Cthulhu Chronicles",
+              "monthlySales": [80, 110, 40, 75, 220, 320, 500, 160, 260, 470, 180, 390]
+            },
+            {
+              "name": "Dagon, The Dragon",
+              "monthlySales": [330, 250, 100, 550, 40, 300, 90, 420, 160, 550, 230, 370]
+            },
+            {
+              "name": "Eldritch Tomes",
+              "monthlySales": [150, 290, 80, 300, 420, 230, 120, 330, 510, 170, 240, 410]
+            }
+          ]
+        },
+        {
+          "name": "Scientific",
+          "brands": [
+            {
+              "name": "Demon-Haunted",
+              "monthlySales": [150, 370, 90, 500, 430, 280, 190, 330, 550, 120, 260, 390]
+            },
+            {
+              "name": "The Theory",
+              "monthlySales": [320, 80, 240, 520, 190, 410, 300, 50, 470, 560, 150, 370]
+            },
+            {
+              "name": "Cosmic",
+              "monthlySales": [200, 310, 120, 360, 280, 180, 250, 400, 290, 340, 170, 220]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Type of RPG",
+      "products": [
+        {
+          "name": "Adventure",
+          "brands": [
+            {
+              "name": "QuestMaster",
+              "monthlySales": [180, 290, 220, 380, 150, 270, 320, 410, 270, 180, 350, 240]
+            },
+            {
+              "name": "Expedition Gear",
+              "monthlySales": [400, 150, 280, 320, 220, 410, 190, 290, 240, 350, 180, 300]
+            }
+          ]
+        },
+        {
+          "name": "Action",
+          "brands": [
+            {
+              "name": "Zombie",
+              "monthlySales":  [330, 250, 100, 550, 40, 300, 90, 420, 160, 550, 230, 370]
+            },
+            {
+              "name": "Cyberpunk",
+              "monthlySales": [200, 310, 120, 360, 280, 180, 250, 400, 290, 340, 170, 220]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
